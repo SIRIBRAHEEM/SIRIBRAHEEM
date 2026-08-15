@@ -16,7 +16,7 @@
 - 🔬 Researcher
 - ⚡ A Tech & Electrician
 - 🌱 A Learning Web3 Developer
-- 💰 Building stablecoin payments for Africa on Arc
+- 💰 Building [Afritop](https://github.com/SIRIBRAHEEM/afritop) — stablecoin payments for Africa on Arc
 
 ---
 ### Currently Into
