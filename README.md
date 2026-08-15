@@ -13,11 +13,8 @@
 
 ---
 ### About Me
-- 🔬 Researcher
-- ⚡ A Tech & Electrician
-- 🌱 A Learning Web3 Developer
-- 💰 Building [Afritop](https://github.com/SIRIBRAHEEM/afritop) — stablecoin payments for Africa on Arc
-
+- Learning
+- CT contributor
 ---
 ### Currently Into
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white)
