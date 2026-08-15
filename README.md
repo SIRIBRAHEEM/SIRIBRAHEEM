@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Welcome+To+My+GitHub;I+Still+Learing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Welcome+To+My+GitHub;I'm+Still+Learning" />
 </p>
 <p align="center">
 <a href="https://x.com/siribraheem33">
