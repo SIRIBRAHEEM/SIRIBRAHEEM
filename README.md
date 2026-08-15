@@ -10,12 +10,14 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SIRIBRAHEEM&color=brightgreen" alt="Profile Views">
 </p>
+
 ---
 ### About Me
-- Researcher
-- A Tech & Electrician
-- A Learning ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white) Developer
-- Building stablecoin payments for Africa on ![Arc](https://img.shields.io/badge/-Arc-black?style=flat-square&logo=circle&logoColor=white)
+- 🔬 Researcher
+- ⚡ A Tech & Electrician
+- 🌱 A Learning Web3 Developer
+- 💰 Building stablecoin payments for Africa on Arc
+
 ---
 ### Currently Into
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white)
@@ -24,6 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ---
 ### GitHub Stats
 <p align="center">
