@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <a href="https://x.com/siribraheem33">
-<img src="https://img.shields.io/badge/-Follow_me_on_X-black?style=flat-square&logo=x&logoColor=white" alt="Follow on X">
+<img src="https://img.shields.io/badge/-Follow_me_on_X-white?style=flat-square&logo=x&logoColor=white" alt="Follow on X">
 </a>
 </p>
 <p align="center">
