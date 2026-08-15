@@ -23,11 +23,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
-
----
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SIRIBRAHEEM&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIRIBRAHEEM&layout=compact&theme=radical" />
-</p>
-this shall grow.
